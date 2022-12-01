@@ -1,0 +1,7 @@
+git init
+file create 
+git status
+git add . -> add all files
+git commit -m "message"
+git config --global user.name "Vikas Kumar"
+git config --global user.email "vikasbrb2002@gmail.com"
