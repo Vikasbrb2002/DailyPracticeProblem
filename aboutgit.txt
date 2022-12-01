@@ -5,3 +5,8 @@ git add . -> add all files
 git commit -m "message"
 git config --global user.name "Vikas Kumar"
 git config --global user.email "vikasbrb2002@gmail.com"
+git log -> history
+git remote add origin https://github.com/Vikasbrb2002/DailyPracticeProblem -> link with github repo
+git remote -v -> repostiroy link 
+git branch -> branch name
+git push origin master
